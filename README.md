@@ -15,6 +15,7 @@ brew install glfw
 Clone the repo
 
 ```
+git@github.com:Gidrek/DiaEngine.git
 ```
 
 Create a **build** directory. Then run the make command.
